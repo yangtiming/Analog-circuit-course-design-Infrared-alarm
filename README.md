@@ -9,6 +9,12 @@ In daily life, we often encounter a variety of dangerous situations or the exist
 
 ![image](https://github.com/yangtiming/Analog-circuit-course-design-Infrared-alarm/blob/master/images/pic%201.png)
 
+## Circuit decomposition
+1. Voltage comparator part
+2. ± 12V DC regulated power supply
+3. RC oscillation circuit part
+![image](https://github.com/yangtiming/Analog-circuit-course-design-Infrared-alarm/blob/master/images/pic%202.png)
+
 
 ## partial results
 
