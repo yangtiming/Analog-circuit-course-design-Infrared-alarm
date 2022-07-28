@@ -16,7 +16,28 @@ In daily life, we often encounter a variety of dangerous situations or the exist
 ![image](https://github.com/yangtiming/Analog-circuit-course-design-Infrared-alarm/blob/master/images/pic%202.png)
 
 
-## partial results
+## results
+output waveform
 
-### the pic of RC oscillation circuit
+### 1.Voltage comparator part
+The red line represents the in-phase ; The green line represents the reverse phase 
+
+#### When the voltage comparator is not working
+<img src="https://github.com/yangtiming/Analog-circuit-course-design-Infrared-alarm/blob/master/images/pic%205.png" width="500px">
+
+#### When the voltage comparator is working
+<img src="https://github.com/yangtiming/Analog-circuit-course-design-Infrared-alarm/blob/master/images/pic%206%20.png" width="500px">
+
+
+### 2.Power part
+The green line is the voltage of 220v 50hz. After dc voltage stabilization, the dc stable voltage of the red line can be obtained. Due to the circuit load, the original 24V reduced to 20V now
+
+<img src="https://github.com/yangtiming/Analog-circuit-course-design-Infrared-alarm/blob/master/images/pic%207.png" width="500px">
+
+
+### 3.RC oscillation circuit part
+<img src="https://github.com/yangtiming/Analog-circuit-course-design-Infrared-alarm/blob/master/images/pic%203.png" width="500px">
+
+### 4.Buzzer and LED port part
+<img src="https://github.com/yangtiming/Analog-circuit-course-design-Infrared-alarm/blob/master/images/pic%203.png" width="500px">
 
