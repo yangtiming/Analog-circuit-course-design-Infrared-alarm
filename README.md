@@ -39,5 +39,5 @@ The green line is the voltage of 220v 50hz. After dc voltage stabilization, the 
 <img src="https://github.com/yangtiming/Analog-circuit-course-design-Infrared-alarm/blob/master/images/pic%203.png" width="500px">
 
 ### 4.Buzzer and LED port part
-<img src="https://github.com/yangtiming/Analog-circuit-course-design-Infrared-alarm/blob/master/images/pic%203.png" width="500px">
+<img src="https://github.com/yangtiming/Analog-circuit-course-design-Infrared-alarm/blob/master/images/pic%204.png" width="500px">
 
